@@ -1,1 +1,6 @@
 web-scrapping
+.env
+app/.env
+.idea/
+__pycache__/
+*.pyc
